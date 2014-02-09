@@ -1,0 +1,166 @@
+#product_list { position: relative;}
+ul.list_view {
+	list-style-type: none
+}
+.list_view li.ajax_block_product {
+	margin-top: 20px;
+	padding: 0 0 20px;
+	overflow: hidden;
+	border-bottom: 1px solid #eee;
+}
+.list_view li.ajax_block_product.last_item { border: none; padding: 0;}
+
+.list_view li.ajax_block_product .compare label {display: inline; color: #666;}
+	
+	.list_view li p.compare input {
+		vertical-align: text-bottom;
+		float: left; margin-right: 5px;
+	}
+.list_view a.product_img_link {
+	overflow:hidden;
+	position:relative;
+	display:block;
+	border: 1px solid #eee;
+}
+	.list_view a.product_img_link img {
+		display: block;
+		vertical-align: bottom;
+		width: 100%;
+	}
+.list_view li.ajax_block_product h3 {
+	padding:0 0 10px 0;
+	font-size:13px;
+	color:#000
+}
+.list_view li.ajax_block_product h3 a {  font-size: 18px; font-weight: normal; text-transform: uppercase;}
+.list_view li.ajax_block_product h3 a:hover { }
+
+.list_view li.ajax_block_product p.product_desc {
+	overflow: hidden;
+	padding:0;
+	line-height:16px;
+}
+.list_view li.ajax_block_product p.product_desc,
+.list_view li.ajax_block_product p.product_desc a {
+}
+.list_view li.ajax_block_product p.product_desc a:hover {}
+.list_view li.ajax_block_product .discount, ul.list_view li.ajax_block_product .on_sale, ul.list_view li.ajax_block_product .online_only {
+	display: block;
+	font-weight: bold;
+	color: #990000;
+	text-transform: uppercase
+}
+.list_view li.ajax_block_product .discount {
+	display: inline-block;
+	font-weight: bold;
+	padding: 2px 5px;
+	font-size: 10px;
+	color: #fff;
+	margin-top: 10px;
+	text-transform: capitalize;
+}
+.list_view li.ajax_block_product .online_only {
+	margin:0 0 10px 0
+}
+.list_view li .content_price {
+	margin: 0;
+	line-height: 30px;
+}
+.list_view li.ajax_block_product .content_price {
+	margin-bottom: 10px;
+}
+.list_view li.ajax_block_product .price {
+	display: block;
+	margin-bottom: 15px;
+	font-weight: normal;
+	font-size: 24px;	
+}
+#product_list li.ajax_block_product span.availability,
+#product_list li.ajax_block_product .online_only{
+		display: none;
+}
+.list_view .ajax_block_product .left_block { position: relative; overflow: hidden;}
+.list_view .ajax_block_product .actions { border: 1px solid #eee; padding: 15px 15px 15px 43px; margin-top: 20px;}
+
+.list_view .ajax_block_product .add-to-links { float: none;}
+.list_view .ajax_block_product .add-to-links li { display: block; line-height: 25px; padding: 0; }
+.list_view .ajax_block_product .add-to-links li.compare input { margin: 0 0 0 2px;}
+.list_view li.ajax_block_product .ajax_add_to_cart_button {
+	padding: 12px 15px;
+	font-family: helvetica;
+	text-transform: uppercase;
+	font-size: 15px;
+	display: inline-block;
+}
+
+
+
+/*===================Grid View ==================*/
+.product-grid li { margin-top: 20px;}
+.grid_view li { position: relative; }
+.grid_view li .compare { float: left ; z-index: 9; margin: 12px 0 0 15px;}
+.grid_view li .compare input { margin: 0;}
+.grid_view li .compare label  {}
+.grid_view li img { width: 100%;}
+
+.grid_view li.ajax_block_product a.product_image {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+.grid_view li.ajax_block_product .price_container { padding: 15px 0 0;}
+.grid_view li.ajax_block_product .price_container .price {
+    font-size: 28px;
+    font-weight: normal;
+    color: #aaaaaa;
+    line-height: 28px;
+}
+.grid_view h5.s_title_block a {
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.grid_view li.ajax_block_product {
+    padding: 10px 15px;
+    text-align: left;
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-bottom: none;
+    position: relative;
+    vertical-align: top;
+}
+.grid_view li.ajax_block_product .actions {
+    top: 100%;
+    left: -1px;
+    z-index: 10;
+    width: 100%;
+    position: absolute;
+    padding-bottom: 12px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-top: none;
+    margin-top: -20px;
+    display: none;
+
+}
+.grid_view li.ajax_block_product:hover { border: 1px solid #ddd; border-bottom: none;}
+.grid_view li.ajax_block_product:hover .actions {
+    border: 1px solid #ddd;
+    border-top: none;
+    margin-top: -2px;
+    display: block;
+}
+
+.grid_view li.ajax_block_product .ajax_add_to_cart_button {
+    padding: 12px 15px;
+    text-transform: uppercase;
+    font-size: 15px;
+    float: left;
+    margin-left: 15px;
+}
+.product-name { font-size: 16px !important;}
+
+

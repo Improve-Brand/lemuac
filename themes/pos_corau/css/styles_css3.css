@@ -1,0 +1,135 @@
+input.button_mini, input.button_small, input.button, input.button_large,
+input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled,
+input.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large,
+input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled,
+a.button_mini, a.button_small, a.button, a.button_large,
+a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large,
+span.button_mini, span.button_small, span.button, span.button_large,
+li.address_update a,
+ul.address li.address_delete a ,
+span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled,
+.icon-search,.buttons_bottom_block #wishlist_button, .itemSubMenu h4.level4, .itemSubMenu a.level4, .pos-slideshow-container .flex-direction-nav a,
+.nivo-directionNav a, .add-to-links li a,
+.banner-static-center .static-link a,
+.pos-feature-product .flex-direction-nav a,.slider-wrapper .prev, .slider-wrapper .next,.responisve-container p a,.pos-logo .flex-direction-nav a,.pos-footer-static .block_various_links ul li a,
+.pos-footer-static .myaccount ul li a, .blockposproductcategory .flex-direction-nav a, .mypresta_scrollup, .blocksupplier li a, #new_comment_form button, #product_comments_block_tab button.usefulness_btn
+{
+    transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+}
+.productTabContent li.item .actions,
+.pos-feature-product li.feature-productslider-item .actions{
+        border-bottom-left-radius: 2px;
+    -moz-border-bottom-left-radius: 2px;
+    -webkit-border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    -moz-border-bottom-right-radius: 2px;
+    -webkit-border-bottom-right-radius: 2px;
+}
+.static-banner7 .banner-box1 .banner-hover,
+.static-banner7 .banner-box2 a img.down,
+.home-banner-contain .banner-box .banner-hover,
+.home-banner-contain .banner-box .banner-box-container,
+.home-banner-contain .img1 .title1,
+.home-banner-contain .img1 .title2,
+.home-banner-contain .img2 .title {
+    transition: 1s ease-out;
+    -webkit-transition: 1s ease-out;
+    -moz-transition: 1s ease-out;
+}
+.static-banner7 .banner-box2 a:hover img.down {
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+}
+
+.mobilemenu>li.first {
+	-webkit-border-radius: 4px 4px 0 0;
+	-moz-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+	behavior: url(<?php echo $url; ?>css/css3.htc);
+	position: relative;
+}
+.mobilemenu>li.last {
+	-webkit-border-radius:0 0 4px 4px;
+	-moz-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+	behavior: url(<?php echo $url; ?>css/css3.htc);
+	position: relative;
+}
+input.button_mini, input.button_small, input.button, input.button_large,
+input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled,
+input.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large,
+input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled,
+a.button_mini, a.button_small, a.button, a.button_large,
+a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large,
+span.button_mini, span.button_small, span.button, span.button_large,
+span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled,
+li.address_update a,
+ul.address li.address_delete a,
+#header_right #currencies_block_top p,
+#header_right #languages_block_top p,
+.block-search-top p,
+.block-search-top .button,
+.responisve-container p a,
+.productTabContent li .ajax_add_to_cart_button,
+.pos-feature-product li.feature-productslider-item,
+.productTabContent li.item,
+.pos-feature-product li.feature-productslider-item .ajax_add_to_cart_button,
+.banner-static-center .static-link a, #new_comment_form button, input, button, textarea, select,
+#add_address p.text input, #add_address p.password input, #add_address p.select input, #product_comments_block_tab button.usefulness_btn {
+    -webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+    }
+.home-banner .img1 a,
+.home-banner .img4 a,
+.pos-slideshow-container .flex-direction-nav a,
+.nivo-directionNav a, .slider-wrapper .prev, .slider-wrapper .next,
+.pos-feature-product .flex-direction-nav a,.pos-logo .flex-direction-nav a,
+.blockposproductcategory .flex-direction-nav a,.pos-special-product li.ajax_block_product .content_price .reduction,
+.pos-special-product .flex-control-paging li a,
+.mypresta_scrollup,
+#view_scroll_left,#view_scroll_right {
+    -webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+.pos-slideshow-title,
+.home-banner-contain .img1 .title1,
+.home-banner-contain .img1 .title2,
+.home-banner-contain .img2 .title,
+#view_scroll_right,
+#view_scroll_left {
+    -moz-opacity:.8;
+    -webkit-opacity:.8;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";/*IE8*/ opacity:.8;
+    }
+button.button span, .top-cart-icon, .toplink .form-search,
+#pt_menu_pt_item_menu_custom_menu .parentMenu span,
+.products-list .product-list-img .add-to-links,
+.add-to-cart input.qty-decrease,
+.add-to-cart input.qty-increase,
+.switch_mode span,
+.pos-footer-static .block_various_links ul li,
+.pos-footer-static .myaccount ul li{
+    transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+}
+
+
+.pos-feature-product .flex-direction-nav a,.slider-wrapper .prev,.slider-wrapper .next,.pos-logo .flex-direction-nav a,.pos-slideshow-container .flex-direction-nav a, .pos-slideshow-container .nivo-directionNav a,
+.blockposproductcategory .flex-direction-nav a { -moz-opacity:0; -webkit-opacity:0; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";/*IE8*/ opacity:0;}
+
+.pos-feature-product:hover .flex-direction-nav a,.slider-wrapper:hover .prev,.slider-wrapper:hover .next,.pos-logo:hover .flex-direction-nav a,.blockposproductcategory:hover .flex-direction-nav a, .pos-slideshow-container:hover .flex-direction-nav a, .pos-slideshow-container:hover .nivo-directionNav a { -moz-opacity:1; -webkit-opacity:1; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";/*IE8*/ opacity:1;}
+
+img:hover{ -moz-opacity:0.8; -webkit-opacity:0.8; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";/*IE8*/ opacity:0.8;}
+
+.content_sortPagiBar ul.pagination .pagination_previous span,
+.content_sortPagiBar ul.pagination .pagination_previous a:hover,
+.content_sortPagiBar ul.pagination .pagination_next a:hover,
+.content_sortPagiBar ul.pagination .pagination_next span {
+    -moz-opacity:0.6; -webkit-opacity:0.6; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";/*IE8*/ opacity:0.6;
+    }

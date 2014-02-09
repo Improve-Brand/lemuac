@@ -1,0 +1,123 @@
+<pos_fraction>
+<!-- slideshow  configuration -->
+	<slideshow>
+		<id_pos_fraction>1</id_pos_fraction>
+		<width>274</width>
+		<height>475</height>
+		<kind_effect>1</kind_effect>
+		<porder>0</porder>
+		<active>1</active>
+	</slideshow>
+	
+	<slideshow>
+		<id_pos_fraction>2</id_pos_fraction>
+		<width>203</width>
+		<height>412</height>
+		<kind_effect>2</kind_effect>
+		<porder>0</porder>
+		<active>1</active>
+	</slideshow>
+  
+	<slideshow>
+		<id_pos_fraction>3</id_pos_fraction>
+		<width>337</width>
+		<height>486</height>
+		<kind_effect>3</kind_effect>
+		<porder>0</porder>
+		<active>1</active>
+	</slideshow>
+	
+<!-- slideshow language  configuration -->
+	<slideshow_lang>
+		<id_pos_fraction>1</id_pos_fraction>
+		<id_lang>1</id_lang>
+		<title1>BALMAIN</title1>
+		<title2>SPRING  SUMMER 2013</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500</div>
+                 ]]>    
+        </description>
+	</slideshow_lang>
+	
+	<slideshow_lang>
+		<id_pos_fraction>2</id_pos_fraction>
+		<id_lang>1</id_lang>
+		<title1>ZARA KIDS</title1>
+		<title2>LOOKBOOK COLLECTION 2013</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</div>
+                 ]]>    
+        </description>
+
+	</slideshow_lang>
+  
+	<slideshow_lang>
+		<id_pos_fraction>3</id_pos_fraction>
+		<id_lang>1</id_lang>
+		<title1>LUXURY</title1>
+		<title2>HANDBAG STYLE FASHION</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</div>
+                 ]]>    
+        </description>
+	</slideshow_lang>
+
+	<slideshow_lang>
+		<id_pos_fraction>1</id_pos_fraction>
+		<id_lang>2</id_lang>
+		<title1>BALMAIN</title1>
+		<title2>SPRING  SUMMER 2013</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500</div>
+                 ]]>    
+        </description>
+	</slideshow_lang>
+	
+	<slideshow_lang>
+		<id_pos_fraction>2</id_pos_fraction>
+		<id_lang>2</id_lang>
+		<title1>ZARA KIDS</title1>
+		<title2>LOOKBOOK COLLECTION 2013</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</div>
+                 ]]>    
+        </description>
+
+	</slideshow_lang>
+  
+	<slideshow_lang>
+		<id_pos_fraction>3</id_pos_fraction>
+		<id_lang>2</id_lang>
+		<title1>LUXURY</title1>
+		<title2>HANDBAG STYLE FASHION</title2>
+		<link>#</link>
+		<description>
+                 <![CDATA[
+                   <div class ="test1"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</div>
+                 ]]>    
+        </description>
+	</slideshow_lang>
+<!-- slideshop configuration -->
+	<slideshow_shop>
+		<id_pos_fraction>1</id_pos_fraction>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+    <slideshow_shop>
+		<id_pos_fraction>2</id_pos_fraction>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+	<slideshow_shop>
+		<id_pos_fraction>3</id_pos_fraction>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+</pos_fraction>

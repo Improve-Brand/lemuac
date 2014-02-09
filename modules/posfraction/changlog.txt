@@ -1,0 +1,18 @@
+update pos_fraction 1.0.0 to 1.0.1 
+ - fix error on ie8 
+ -file fix 
+	+ add js file modules/posfraction/jquery-1.9.0.min.js
+	+ add js file modules/posfraction/jquery.easing.js
+	+ file modules/posfraction/slideshow.tpl
+	+ file modules/posfraction/posfraction.php
+ - package 
+	+ add file modules/posfraction/sql/slideshow.xml
+	+ file modules/posfraction/install.php
+	+ file modules/posfraction/uninstall.php
+update pos_fraction 1.0.1 to 1.0.2 	
+	-update language 
+	-file fix
+		+ file modules/posfraction/sql/..
+		+ file modules/posfraction/posfraction.php
+		+ file modules/posfraction/models/Fractionslideshow.php
+		+ file modules/posfraction/controller/AdminPosfractionController.php

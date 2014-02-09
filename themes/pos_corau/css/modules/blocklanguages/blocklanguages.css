@@ -1,0 +1,69 @@
+/* block top languages */
+#header_right #languages_block_top {
+	float: left;
+	margin: 10px 0;
+}
+#header_right #languages_block_top p {
+	padding: 0 0 0 10px;
+	min-width: 100px;
+	height: 25px;
+	line-height: 26px;
+	display: block;
+	color: #333;
+	text-transform: capitalize;
+	font-weight: normal;
+	position: relative;
+	z-index: 10;
+	border: 1px solid #ddd;
+	text-align: left;
+}
+
+#languages_block_top ul#first-languages li {
+	text-align: left;
+}
+#languages_block_top ul#first-languages li.selected_language {
+
+}
+/*languages with jquery*/
+#countries {
+	cursor: pointer;
+	position: relative;
+	z-index: 999999;
+}
+#countries p {
+	position: relative;
+	top: 0;
+	padding: 0;
+}
+#countries p img {
+	padding-left: 5px;
+}
+#countries .countries_ul{
+	display:none;
+	z-index: 10000;
+	padding:10px;
+	list-style-type:none;
+}
+#countries .countries_ul_hover{
+	display:block;
+	z-index: 5000;
+	position:absolute;
+	left: 0;
+	top: 25px;
+	padding: 0;
+	height:auto;
+	border: 1px solid #ddd;
+	border-top: 0;
+}
+#countries .countries_ul_hover li {
+	border-top: 2px solid #fff;
+	background: #fff;
+	padding: 3px 0 3px 10px;
+	min-width: 100px;
+	display: block;
+	color: #333;
+	text-transform: capitalize;
+	font-weight: normal;
+}
+
+#countries .countries_ul_hover li a { color: #333; display: block;}

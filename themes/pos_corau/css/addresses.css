@@ -1,0 +1,102 @@
+#order form { clear: both;}
+div.addresses {
+   position:relative;
+   padding:15px;
+   border:1px solid #ddd;
+   font-size:14px;
+}
+
+ul.address {
+   list-style-type:none;
+   position:relative;
+   margin-bottom: 15px;
+   border: 1px solid #eee;
+   padding-bottom: 10px;
+}
+#address_delivery,
+#address_invoice { background: #fff; }
+#delivery_address { }
+
+ul.address li {
+	padding:0 15px;
+	font-weight: normal;
+	line-height:18px;
+	text-transform: capitalize
+}
+
+ul.address li.address_title {
+   height: 29px;
+   font-weight: bold;
+   line-height:29px;
+   color:#666;
+   text-transform: uppercase;
+   text-align: center;
+   border-bottom: 1px solid #eee;
+}
+ul.address .address_alias {
+	font-weight: normal;
+	text-transform: none;
+}
+ul.address >li:first-child + li {
+	margin-top:8px
+}
+
+ul.address  li.address_update {
+	margin-top:20px
+}
+ul.address  li.address_update,
+ul.address li.address_delete {
+}
+.address_add {
+   padding:20px 0;
+   text-align: right;
+}
+.address_select {
+	border:1px solid #ccc;
+	width: 200px;
+	margin-left: 10px;
+}
+label[for=id_address_delivery], label[for=id_address_invoice] {
+	float: left;
+	width: 225px;
+}
+.addressesAreEquals label {
+	margin-left: 5px;
+}
+.addressesAreEquals input {
+	float: left;
+}
+p.address_delivery, p.addressesAreEquals {
+	padding-bottom: 14px
+}
+/* PAGE ADRESSES ******************************************************************************* */
+.addresses ul.address {
+   list-style-type:none;
+   position:relative;
+   height: auto !important;
+}
+.addresses ul.address.alternate_item,
+.addresses ul.address.last_item {margin-right:0}
+.addresses ul.address li {
+	padding:0 15px;
+	font-weight: normal;
+	line-height:18px;
+}
+.addresses ul.address .address_title {
+   margin-bottom:5px;
+   height:30px;
+   font-weight: bold;
+   line-height:29px;
+   color:#333;
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 16px;
+}
+.addresses ul.address .address_update {margin-top:20px}
+.addresses ul.address .address_update,
+.addresses ul.address .address_delete {
+   text-transform:none;
+   text-align: right;
+   padding: 10px;
+}
+

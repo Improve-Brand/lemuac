@@ -1,0 +1,4 @@
+update poslogo from 1.0.0 to 1.0.1
+	-fix language problem
+	-file fix
+	   + all file in module

@@ -1,7 +1,7 @@
-Hi {name},
+Hola {name},
 
 
-{customer} has sent you a link to a product that (s)he thinks may interest you.
+{customer} te ha enviado un vínculo a un producto que él piensa que pueden interesarle.
 
 {product}: {product_link}
 
@@ -10,4 +10,4 @@ Hi {name},
 
 
 
-{shop_url} powered by PrestaShop™
+{shop_url} desarrollado por PrestaShop™

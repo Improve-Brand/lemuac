@@ -1,11 +1,15 @@
-We miss you at {shop_name}
-
-Hello {firstname} {lastname},
+{shop_name}
  
-You are one of our best customers, however you have not placed an order in {days_threshold} days.
-
-We wish to thank you for the trust you have placed in us and want to give you a discount of {amount}% valid on your next order! This offer is valid for {days} days, so do not waste a moment!
+Hola {firstname} {lastname},
  
-Here is your coupon: {voucher_num}
+Su cesta de {shop_name}
+ 
+Usted es parte de nuestros mejores clientes, sin embargo, no han ordenado para {days_threshold} días.
 
-Enter this code in your shopping cart to get your discount.
+Queremos darle las gracias por la confianza que ustedes depositan en nosotros y nosotros le concedemos un descuento de {amount}% válido en su próximo pedido! Esta oferta es válida para {days} días, así que no pierdas un instante!
+ 
+Aquí está tu cupón: {voucher_num}
+
+Introduzca este código en tu carrito de compras para obtener el descuento.
+ 
+{shop_name} desarrollado por PrestaShop™

@@ -1,11 +1,10 @@
-Hi,
+Hola,
 
-The product {product} is nearly out of stock.
-The remaining stock is now less than the specified minimum of {last_qty}.
-Remaining stock : {qty}
+El producto {product} es pronto fuera de stock.
+De hecho, la ruptura de stock de {last_qty} ha sido superado.
+Existencias restantes: {qty}
 
-You are advised to open the product's admin Product Page in order to replenish your inventory.
+Se aconseja abrir administrador del producto Producto a fin de reponer el inventario.
 
 
-
-{shop_url} powered by PrestaShop™
+{shop_url} desarrollado por PrestaShop™

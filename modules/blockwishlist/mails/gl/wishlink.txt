@@ -1,7 +1,1 @@
-Hi,
-
-{shop_name} invites you to send this link to your friends, so they can see your wishlist {wishlist} :
-
-{message}
-
-{shop_url} realised by PrestaShop™
+La página solicitada ya no existe

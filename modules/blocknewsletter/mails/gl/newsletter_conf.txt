@@ -1,7 +1,7 @@
-Hi
+Hola,
 
-Thank you for subscribing to our newsletter.
+Gracias por tu suscripción a nuestro boletín.
 
 
 
-{shop_url} powered by PrestaShop™
+{shop_url} dirigida por PrestaShop™

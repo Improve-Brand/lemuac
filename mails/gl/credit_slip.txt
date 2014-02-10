@@ -1,11 +1,11 @@
-Hi {firstname} {lastname},
+Hola {firstname} {lastname},
 
-Thank you for shopping at {shop_name}!
+Se ha generado un vale de compra a su favor con la referencia: {order_name}.
 
-We have generated a credit slip in your name for order with the reference {order_name}.
+Puede revisar este vale y descargar la factura en la sección: "Seguimiento de pedido" dentro de su cuenta.
 
-You can review this credit slip and download the invoice from the "Order follow" section of your account by clicking "My account" on our shop.
+Gracias por comprar en {shop_name}
 
 {shop_name} - {shop_url}
 
-{shop_url} powered by PrestaShop™
+{shop_url} desarrollado por PrestaShop™

@@ -1,11 +1,13 @@
-Hi {firstname} {lastname},
+Hola {firstname} {lastname},
+	
+Estamos preparando su pedido con la referencia: {order_name}.
 
-We are currently processing your {shop_name} order with the reference {order_name}.
+Puede revisar su pedido y descargar la factura en la sección: "Historia y detalles de mis pedidos" dentro de su cuenta.
 
-You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+Si tiene una cuenta de invitado, puede seguir su pedido haciendo clic en: {guest_tracking_url}
 
-If you have guest account, you can follow your order using this link: {guest_tracking_url}
+Gracias por comprar en {shop_name}!
 
 {shop_name} - {shop_url}
 
-{shop_url} powered by PrestaShop&trade;
+{shop_url} desarrollado por PrestaShop™

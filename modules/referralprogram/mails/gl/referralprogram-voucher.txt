@@ -1,12 +1,10 @@
-Hi {firstname} {lastname},
+Hola {firstname} {lastname},
 
-We have created a voucher in your name for referring a friend.
+Le informamos de que usted acaba de obtener una orden de compra después de su remisión.
 
-Here is the code of your voucher : {voucher_num}, with an amount of {voucher_amount}.
-Simply copy/paste this code during the payment process for your next order.
-
-Thank you for shopping at {shop_name}.
+Aquí está su número de comprobante: {voucher_num}, de un total de {voucher_amount} euros.
+Copia y pega este código en la canasta de tu próxima compra antes de ajustar el orden.
 
 
 
-{shop_url} powered by PrestaShop™
+{shop_url} dirigida por PrestaShop™

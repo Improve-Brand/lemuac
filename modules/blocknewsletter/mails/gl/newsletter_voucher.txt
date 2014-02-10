@@ -1,9 +1,9 @@
-Hi
+Hola
 
-Regarding your newsletter subscription, we are pleased to offer you the following voucher: {discount}
+Después de su suscripción a nuestro boletín, nos complace ofrecerle el siguiente cupón: {discount}
 
 {shop_name} - {shop_url}
 
 
 
-{shop_url} Powered by PrestaShop™
+{shop_url} dirigida por PrestaShop™

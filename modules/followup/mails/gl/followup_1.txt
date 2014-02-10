@@ -1,13 +1,19 @@
-Hello {firstname} {lastname},
+{shop_name}
  
-We noticed that during your last visit on {shop_name}, you did not complete the order you had started.
+Hola {firstname} {lastname},
+ 
+Su cesta de {shop_name}
+ 
+Nos dimos cuenta de que durante su última visita en {shop_name}, que no ha validado la orden que había comenzado.
 
-Your cart has been saved, you can resume your order by visiting our shop:
+Su carrito ha sido guardado, puede reanudar su solicitud por visitar nuestra tienda:
 
 {shop_url}
 
-As an incentive, we can give you a discount of {amount}% off your next order! This offer is valid for {days} days, so do not waste a moment!
+Como excepción, le ofrecemos un descuento del {amount}% de descuento en su próximo pedido! Esta oferta es válida para {days} días, así que no pierdas un instante!
  
-Here is your coupon: {voucher_num}
+Aquí está tu cupón: {voucher_num}
 
-Enter this code in your shopping cart to get your discount.
+Introduzca este código en tu carrito de compras para obtener el descuento.
+ 
+{shop_name} desarrollado por PrestaShop™

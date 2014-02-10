@@ -1,29 +1,29 @@
-Hi,
+Hola,
 
-You've a new order from {firstname} {lastname} ({email}) on {shop_name}.
+Has un nuevo orden de {firstname} {lastname} ({email}) en {shop_name}.
 
-Order: {order_name}
-Placed on : {date}
-Carrier : {carrier}
-Payment: {payment}
-Discounts: {total_discounts}
-Shipping: {total_shipping}
-Products: {total_products}
-Gift-wrapping: {total_wrapping}
-Total paid: {total_paid}
+Orden: {order_name}
+Puesto en: {date}
+Carrier: {carrier}
+De pago: {payment}
+Descuentos: {total_discounts}
+Gastos de envío: {total_shipping}
+Productos: {total_products}
+Envolver regalos: {total_wrapping}
+Total pagado: {total_paid}
 
-Delivery address:
+Dirección de entrega:
 
 {delivery_block_txt}
 
-Billing address:
+Dirección de facturación:
 
 {invoice_block_txt}
 
-Customer message:
+Mensaje al cliente:
 
 {message}
 
 
 
-{shop_url} powered by PrestaShop™
+{shop_url} desarrollado por PrestaShop™

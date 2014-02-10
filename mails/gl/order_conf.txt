@@ -1,28 +1,29 @@
-﻿Hi {firstname} {lastname},
+{firstname} {lastname}, gracias por comprar en {shop_name}!
+		
+Detalles del Pedido
 
-Thank you for your order on {shop_name}!
+Pedido: {order_name} realizado el {date}
+Forma de Pago: {payment}
 
-	Order: {order_name} placed on {date}
-	Payment: {payment}
+Total Productos: {total_products}
+Descuentos: {total_discounts}
+Gastos de Envío: {total_shipping}
+Total: {total_paid}
+	
+	
+Envios
 
-	Products: {total_products}
-	Discounts: {total_discounts}
-	Shipping: {total_shipping}
-	Gift-wrapping: {total_wrapping}
-	Total paid: {total_paid}
+Transporte: {carrier}
 
-	Carrier: {carrier}
+Dirección de Entrega:
+{delivery_block_txt}
 
-	Delivery address:
+Direccion de Facturación:
+{invoice_block_txt}
+	
+Puede revisar su pedido y descargar la factura en la sección: "Historia y detalles de mis pedidos" dentro de su cuenta.
+Si tiene una cuenta de invitado, puede seguir su pedido haciendo clic en: {guest_tracking_url}
 
-	{delivery_block_txt}
+Gracias por comprar en {shop_name}.
 
-	Billing address:
-
-	{invoice_block_txt}
-
-You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
-
-If you have guest account, you can follow your order using this link: {guest_tracking_url}
-
-{shop_url} powered by PrestaShop™
+{shop_url} desarrollado por PrestaShop™

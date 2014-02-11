@@ -10,12 +10,12 @@ SetEnv HTTP_MOD_REWRITE On
 </IfModule>
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^192.168.1.4$
-RewriteRule . - [E=REWRITEBASE:/pos_corau/]
+RewriteCond %{HTTP_HOST} ^http://mac-mini-de-manu.local$
+RewriteRule . - [E=REWRITEBASE:/lemuac/]
 RewriteRule ^api/?(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
 
 # AlphaImageLoader for IE and fancybox
-RewriteCond %{HTTP_HOST} ^192.168.1.4$
+RewriteCond %{HTTP_HOST} ^http://mac-mini-de-manu.local$
 RewriteRule ^images_ie/?([^/]+)\.(jpe?g|png|gif)$ js/jquery/plugins/fancybox/images/$1.$2 [L]
 </IfModule>
 
@@ -39,7 +39,7 @@ FileETag INode MTime Size
 </IfModule>
 
 #If rewrite mod isn't enabled
-ErrorDocument 404 /pos_corau/index.php?controller=404
+ErrorDocument 404 /lemuac/index.php?controller=404
 
 # ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
 

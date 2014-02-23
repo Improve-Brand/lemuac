@@ -117,3 +117,4 @@ $_ERRORS['a0b8a508d6ca8113e6439f623e7bf7cf'] = 'The following module(s) could no
 $_ERRORS['eddeabd79f8ca673d888fa2ffe9cf69a'] = 'No template was found for this module.';
 $_ERRORS['0047c554e2598750ad943b63e984dd7c'] = 'Invalid state for new oerder.';
 $_ERRORS['5133d1c444e5593c17c086d2b7c3544f'] = 'You cannot update available stock.';
+$_ERRORS['5272e8f628805ab4abed2e410c8b6728'] = 'Error on image legend \"%1$s.\" is not a valid legend.';

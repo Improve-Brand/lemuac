@@ -1,5 +1,0 @@
-Hola,
-
-Gràcies per subscriure-us a la nostra newsletter.
-
-{shop_url} és gestionat amb PrestaShop™

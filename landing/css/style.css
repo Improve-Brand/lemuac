@@ -19,6 +19,7 @@ a{text-decoration:none;font-family:Myriad Pro, Helvatica, Arial, sans-serif;}
 	top: 180px;
 	text-align: left;
 	opacity: 0;
+	visibility:visible
 }
 .description{
 	font-family: Myriad Pro,Helvatica, Arial, sans-serif;
